@@ -1,4 +1,3 @@
-```markdown
 ---
 layout: archive
 title: "Leadership & Service"
@@ -38,4 +37,3 @@ Leading the Earth Science Information Partners (ESIP) working group focused on p
 - **Department Head Search Committee** (2022) *faculty-appointed*
 - **Graduate Student-Faculty Liaison** (2018)
 - **Annual Advisory Board Meeting, Graduate Student Representative** (2018, 2021)
-```
