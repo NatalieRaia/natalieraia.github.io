@@ -16,9 +16,9 @@ My work focuses on increasing the discoverability, accessibility, and long-term 
 
 ## Current Roles
 
-- **Postdoctoral Research Associate**, School of Information, University of Arizona (2023–present)
+- **Earth Science Cyberinfrastructure Research Principal**, College of Information Science, University of Arizona (2023–present)
 - **UX and Community Researcher**, System for Earth and Extraterrestrial Sample Registration (SESAR)
-- **AGU Board Director**, American Geophysical Union (2025–present) | [Read announcement](https://fromtheprow.agu.org/benjamin-zaitchik-elected-agu-president-elect-for-2025-2026-term/)
+- **AGU Board Director**, American Geophysical Union (2025–present)
 - **Associate Editor**, Geoscience Data Journal (2024–present)
 - **Co-Chair**, ESIP Physical Sample Curation Cluster (2023–present)
 
